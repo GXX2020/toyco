@@ -1,0 +1,8 @@
+/home/sunlie/myjobs/tinyCo/build/CMakeFiles/edit_cache.dir
+/home/sunlie/myjobs/tinyCo/build/CMakeFiles/rebuild_cache.dir
+/home/sunlie/myjobs/tinyCo/build/example/CMakeFiles/rebuild_cache.dir
+/home/sunlie/myjobs/tinyCo/build/example/CMakeFiles/edit_cache.dir
+/home/sunlie/myjobs/tinyCo/build/example/CMakeFiles/test_baselib.dir
+/home/sunlie/myjobs/tinyCo/build/example/CMakeFiles/test_Socket.dir
+/home/sunlie/myjobs/tinyCo/build/example/CMakeFiles/test_Timer.dir
+/home/sunlie/myjobs/tinyCo/build/example/CMakeFiles/test_SSCall.dir
